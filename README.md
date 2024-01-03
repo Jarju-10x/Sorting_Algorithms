@@ -25,6 +25,6 @@ Here are some sorting algorithms that I plan to implement in the future:
 - Radix Sort
 - Shell Sort
 - Counting Sort
-- ....
+- .....
 
 yet more to come.😉
